@@ -251,3 +251,7 @@ The project applies Computer Vision concepts including image preprocessing, Gaus
 ### 6. Gesture Statistics
 
 ![Gesture Statistics](screenshots/Screenshot%202026-09-18%20223003.png)
+
+### CREATED BY:
+DEBJEET DEBNATH
+24BAI10791
