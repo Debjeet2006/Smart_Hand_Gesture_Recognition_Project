@@ -216,3 +216,38 @@ Possible future work includes improving robustness to different lighting/backgro
 ## 19. Academic Alignment
 The project applies Computer Vision concepts including image preprocessing, Gaussian filtering, Canny edge detection, segmentation, feature extraction, landmark-based representation, classification and real-time video processing.
 
+## 20. 📸 Screenshots
+
+### 1. Smart Hand Gesture Recognition Dashboard
+
+![Smart Hand Gesture Recognition Dashboard](screenshots/Screenshot%202026-09-18%20222738.png)
+
+---
+
+### 2. Gesture Recognition Result
+
+![Gesture Recognition Result](screenshots/Screenshot%202026-09-18%20222751.png)
+
+---
+
+### 3. Computer Vision Processing Pipeline
+
+![Computer Vision Processing Pipeline](screenshots/Screenshot%202026-09-18%20222809.png)
+
+---
+
+### 4. Hand Landmark Detection
+
+![Hand Landmark Detection](screenshots/Screenshot%202026-09-18%20222825.png)
+
+---
+
+### 5. Feature Extraction and Classification
+
+![Feature Extraction and Classification](screenshots/Screenshot%202026-09-18%20222839.png)
+
+---
+
+### 6. Gesture Statistics
+
+![Gesture Statistics](screenshots/Screenshot%202026-09-18%20223003.png)
