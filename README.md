@@ -101,21 +101,34 @@ Visual Dashboard / Result
 ```text
 Smart_Hand_Gesture_Recognition_Project/
 │
-├── app.py
-├── collect_data.py
-├── train_knn.py
-├── test_model.py
-├── dataset/
-├── models/
+├── docs/
+│   └── design_diagrams.md
+│
 ├── modules/
+│   ├── __init__.py
 │   ├── cv_analysis.py
-│   ├── preprocessing.py
 │   ├── feature_extraction.py
 │   ├── gesture_classifier.py
+│   ├── preprocessing.py
 │   └── visualization.py
+│
+├── screenshots/
+│   ├── Screenshot 2026-09-18 222738.png
+│   ├── Screenshot 2026-09-18 222751.png
+│   ├── Screenshot 2026-09-18 222809.png
+│   ├── Screenshot 2026-09-18 222825.png
+│   ├── Screenshot 2026-09-18 222839.png
+│   └── Screenshot 2026-09-18 223003.png
+│
 ├── tests/
-├── requirements.txt
+│   ├── __init__.py
+│   └── test_classifier.py
+│
+├── .gitignore
+├── app.py
+├── docs_project_structure.txt
 ├── README.md
+├── requirements.txt
 └── statement.md
 ```
 
