@@ -1,0 +1,25 @@
+PROJECT DOCUMENTATION CHECKLIST
+
+1. Cover Page
+2. Introduction
+3. Problem Statement
+4. Objectives
+5. Functional Requirements
+6. Non-Functional Requirements
+7. System Architecture Diagram
+8. Workflow Diagram
+9. Use Case Diagram
+10. Sequence Diagram
+11. Component/Class Diagram
+12. Dataset/Input Description
+13. Preprocessing
+14. Hand Landmark Detection
+15. Feature Extraction
+16. Gesture Classification
+17. Implementation
+18. Screenshots/Results
+19. Testing
+20. Challenges
+21. Learnings
+22. Future Enhancements
+23. References
